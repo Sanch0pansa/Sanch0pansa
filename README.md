@@ -14,7 +14,7 @@ Vision Transformer for blood cell recognition. The model recognizes one of four 
 https://github.com/Sanch0pansa/ViT-pytorch-mirea
 
 ### File library (Web)
-File sharing service. You can share the file of find file you need.
+File sharing service. You can share the file or find file you need.
 
 https://github.com/CodeventureRU/FileLibrary
 
