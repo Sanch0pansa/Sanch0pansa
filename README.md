@@ -4,7 +4,7 @@ Something about:
 - 💻 Web-dev enjoyer
 - 🤖 ML beginner
 - 🔢 Math lover
-- 🎓 MIREA freshmen
+- 🎓 MIREA freshman
 - 🌱 Learning NestJS and ML
 
 ## Projects
