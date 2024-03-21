@@ -27,6 +27,7 @@ https://github.com/Sanch0pansa/predprof_2023
 Service for monitoring daily expanses by categories. It can make a forecast of expenses, build diagrams of the distribution of expenses by category and for a period, keep records of individual expenses and credits.
 
 https://github.com/Sanch0pansa/DailyExpanses
+
 Video demo: https://www.youtube.com/watch?v=HFfv5RgiPIE
 
 ### COVID-19 Recognizer (ML)
