@@ -5,7 +5,7 @@ Something about:
 - 🤖 ML beginner
 - 🔢 Math lover
 - 🎓 MIREA freshman
-- 🌱 Learning NestJS and ML
+- 🌱 Learning backend and ML
 
 ## Projects
 ### ViT (ML)
