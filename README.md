@@ -4,10 +4,13 @@ Something about:
 - 💻 Web-dev enjoyer
 - 🤖 ML beginner
 - 🔢 Math lover
-- 🎓 MIREA freshman
+- 🎓 MIREA student
 - 🌱 Learning backend and ML
 
 ## Projects
+### News Paper Parser (Backend)
+A student project to parse news messages from the websites of TASS, RBC and Komsomolskaya Pravda. The parser is launched every half hour by cron, uses httpx for asynchronous parsing, and saves data to a DB. Embeddings are then extracted from the data using the Bert model. Grafana is used to visualize statistical data on news.
+
 ### ViT (ML)
 Vision Transformer for blood cell recognition. The model recognizes one of four types of blood cells from a photograph. The training process is controlled via WandB.
 
