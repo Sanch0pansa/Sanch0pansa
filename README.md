@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sanya
+# 👋 Hi there!
 
 Something about:
 - 💻 Web-dev enjoyer
