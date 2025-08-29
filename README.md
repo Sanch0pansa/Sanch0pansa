@@ -12,6 +12,7 @@ Something about:
 Own tool for automatic injection of dependencies, supporting dependency graph resolution.
 
 https://github.com/Sanch0pansa/MicroDI
+The article about: https://telegra.ph/Sobstvennyj-DI-kontejner-na-python-08-24
 
 ### News Paper Parser (Backend)
 A student project to parse news messages from the websites of TASS, RBC and Komsomolskaya Pravda. The parser is launched every half hour by cron, uses httpx for asynchronous parsing, and saves data to a DB. Embeddings are then extracted from the data using the Bert model. Grafana is used to visualize statistical data on news.
