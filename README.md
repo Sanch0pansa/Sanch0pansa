@@ -12,6 +12,7 @@ Something about:
 Own tool for automatic injection of dependencies, supporting dependency graph resolution.
 
 https://github.com/Sanch0pansa/MicroDI
+
 The article about: https://telegra.ph/Sobstvennyj-DI-kontejner-na-python-08-24
 
 ### News Paper Parser (Backend)
